@@ -47,6 +47,12 @@ a {
     text-decoration: none;
 
 }
+
+ul {
+
+    list-style-type: none;
+    
+}
 /* Very small screens */
 @media (min-width: 576px) {
 
@@ -353,6 +359,7 @@ max-width: 100%;
     -moz-transform: skewy(-2deg);
     -ms-transform: skewy(-2deg);
     -o-transform: skewy(-2deg);
+    
 }
 
 .services .container {
@@ -423,6 +430,7 @@ margin-bottom: 90px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+
 }
 
 
@@ -432,6 +440,7 @@ margin-bottom: 90px;
     text-align: start;
     margin-bottom: 10px;
     height: auto;
+    
 }
 
 .services .container .collection .cards .card-caption h4 {
